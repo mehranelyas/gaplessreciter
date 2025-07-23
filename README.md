@@ -1,8 +1,6 @@
 
 # App for Create Gapless Reciter(Qari) Database
 
-A brief description of what this project does and who it's for
-
 ## Assalamo 3laykom
 
 I created an app for android so everyone can create a gapless database of their favorite reciter.
