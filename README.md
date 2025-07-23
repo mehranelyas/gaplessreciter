@@ -36,7 +36,7 @@ audio source :https://download.tvquran.com/download/recitations/343/266/ +001+.m
 
 [sheykh_reza_mohammadian.zip](https://github.com/quran/quran_android/files/5759755/sheykh_reza_mohammadian.zip)
 
-audio source :http://islmdl.ir/quran/sheykh_reza/ +001+.mp3
+audio source :https://s5.uupload.ir/files/pakandl/sheykh_reza/ +001+.mp3
 
 ## You can send your db here in [issues](https://github.com/mehranelyas/gaplessreciter/issues) so everyone can use them
 
