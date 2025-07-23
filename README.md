@@ -24,19 +24,37 @@ after arranging all of the quran reciter sura just zip the `/QuranFiles/Temp/out
 
 [gamal_aloosi.zip](https://github.com/quran/quran_android/files/5759751/gamal_aloosi.zip)
 
-audio source :https://server6.mp3quran.net/aloosi/ +001.mp3
+audio source :https://server6.mp3quran.net/aloosi/ +001+.mp3
+
+### example
+
+https://server6.mp3quran.net/aloosi/001.mp3
+
+https://server6.mp3quran.net/aloosi/002.mp3
 
 `Saad Al-Ghamdi with Kurdish Translate` DB file:
 
 [ghamdi_with_kurdi.zip](https://github.com/quran/quran_android/files/5759753/ghamdi_with_kurdi.zip)
 
-audio source :https://download.tvquran.com/download/recitations/343/266/ +001.mp3
+audio source :https://download.tvquran.com/download/recitations/343/266/ +001+.mp3
+
+### example
+
+https://download.tvquran.com/download/recitations/343/266/001.mp3
+
+https://download.tvquran.com/download/recitations/343/266/002.mp3
 
 `Sheykh Reza Mohammadian` DB file:
 
 [sheykh_reza_mohammadian.zip](https://github.com/quran/quran_android/files/5759755/sheykh_reza_mohammadian.zip)
 
-audio source :https://s5.uupload.ir/files/pakandl/sheykh_reza/ +001.mp3
+audio source :https://s5.uupload.ir/files/pakandl/sheykh_reza/ +001+.mp3
+
+### example
+
+https://s5.uupload.ir/files/pakandl/sheykh_reza/001.mp3
+
+https://s5.uupload.ir/files/pakandl/sheykh_reza/002.mp3
 
 ## You can send your db here in [issues](https://github.com/mehranelyas/gaplessreciter/issues) so everyone can use them
 
