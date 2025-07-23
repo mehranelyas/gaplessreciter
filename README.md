@@ -38,7 +38,7 @@ audio source :https://download.tvquran.com/download/recitations/343/266/ +001+.m
 
 audio source :http://islmdl.ir/quran/sheykh_reza/ +001+.mp3
 
-## You can send your db here in commens so everyone can use them
+## You can send your db here in [issues](https://github.com/mehranelyas/gaplessreciter/issues) so everyone can use them
 
 If you have any feedback, please reach out to us at mehranelyas@gmail.com
 
