@@ -1,6 +1,7 @@
 
 # App for Create Gapless Reciter(Qari) Database
 
+
 ## Assalamo 3laykom
 
 I created an app for android so everyone can create a gapless database of their favorite reciter.
@@ -36,7 +37,8 @@ audio source :https://download.tvquran.com/download/recitations/343/266/ +001+.m
 [sheykh_reza_mohammadian.zip](https://github.com/quran/quran_android/files/5759755/sheykh_reza_mohammadian.zip)
 
 audio source :http://islmdl.ir/quran/sheykh_reza/ +001+.mp3
-## Feedback
+
+## You can send your db here in commens so everyone can use them
 
 If you have any feedback, please reach out to us at mehranelyas@gmail.com
 
